@@ -9,25 +9,17 @@
 
 <br>
 
-<a href="https://jammaru.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/website-jammaru.com-e6edf3?style=flat-square&amp;labelColor=e6edf3&amp;color=e6edf3">
-    <img alt="Website jammaru.com" src="https://img.shields.io/badge/website-jammaru.com-24292f?style=flat-square&amp;labelColor=24292f&amp;color=24292f">
-  </picture>
-</a>
-&nbsp;
-<a href="https://x.com/jammaru_lab">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-%40jammaru__lab-e6edf3?style=flat-square&amp;logo=x&amp;logoColor=24292f&amp;labelColor=e6edf3">
-    <img alt="X @jammaru_lab" src="https://img.shields.io/badge/-%40jammaru__lab-24292f?style=flat-square&amp;logo=x&amp;logoColor=white&amp;labelColor=24292f">
-  </picture>
-</a>
+<a href="https://jammaru.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/website-jammaru.com-e6edf3?style=flat-square&amp;labelColor=e6edf3&amp;color=e6edf3">
+  <img alt="Website jammaru.com" src="https://img.shields.io/badge/website-jammaru.com-24292f?style=flat-square&amp;labelColor=24292f&amp;color=24292f">
+</picture></a> <a href="https://x.com/jammaru_lab"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-%40jammaru__lab-e6edf3?style=flat-square&amp;logo=x&amp;logoColor=24292f&amp;labelColor=e6edf3">
+  <img alt="X @jammaru_lab" src="https://img.shields.io/badge/-%40jammaru__lab-24292f?style=flat-square&amp;logo=x&amp;logoColor=white&amp;labelColor=24292f">
+</picture></a>
 
 <br><br>
 
-<a href="https://skillicons.dev">
-  <img alt="TypeScript, JavaScript, Svelte, React, Astro, HTML, CSS, Python, Node.js" src="https://skillicons.dev/icons?i=ts,js,svelte,react,astro,html,css,py,nodejs&amp;perline=9">
-</a>
+<img alt="TypeScript, JavaScript, Svelte, React, Astro, HTML, CSS, Python, Node.js" src="https://skillicons.dev/icons?i=ts,js,svelte,react,astro,html,css,py,nodejs&amp;perline=9">
 
 </div>
 
