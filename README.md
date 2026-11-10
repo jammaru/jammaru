@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="jammaru — Local LLM × OSS" src="assets/header-light.svg" width="540">
+  <img alt="jammaru" src="assets/header-light.svg" width="540">
 </picture>
 
 Local LLM × OSS Developer
