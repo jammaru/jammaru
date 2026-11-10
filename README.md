@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="jammaru" src="assets/header-light.svg" width="540">
+  <img alt="jammaru — Local LLM × OSS" src="assets/header-light.svg" width="540">
 </picture>
 
-オンデバイスで動く AI を、道具にする。
+Local LLM × OSS Developer
 
 <br>
 
